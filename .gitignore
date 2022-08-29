@@ -1,0 +1,5 @@
+.vs/*
+Model/.vs
+Model/.vs/
+Model/.vs/*
+Model/Model.Service/obj/Debug/net6.0/Model.Service.assets.cache
