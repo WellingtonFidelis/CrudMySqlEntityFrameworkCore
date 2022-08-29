@@ -1,0 +1,17 @@
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\bin\Debug\net6.0\Model.Infrastructure.Data.deps.json
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\bin\Debug\net6.0\Model.Infrastructure.Data.runtimeconfig.json
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\bin\Debug\net6.0\Model.Infrastructure.Data.dll
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\bin\Debug\net6.0\Model.Infrastructure.Data.pdb
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\bin\Debug\net6.0\Model.Domain.dll
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\bin\Debug\net6.0\Model.Domain.pdb
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\obj\Debug\net6.0\Model.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\obj\Debug\net6.0\Model.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\obj\Debug\net6.0\Model.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\obj\Debug\net6.0\Model.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\obj\Debug\net6.0\Model.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\obj\Debug\net6.0\Model.Infrastructure.Data.csproj.CopyComplete
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\obj\Debug\net6.0\Model.Infrastructure.Data.dll
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\obj\Debug\net6.0\refint\Model.Infrastructure.Data.dll
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\obj\Debug\net6.0\Model.Infrastructure.Data.pdb
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\obj\Debug\net6.0\Model.Infrastructure.Data.genruntimeconfig.cache
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.Data\obj\Debug\net6.0\ref\Model.Infrastructure.Data.dll

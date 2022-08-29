@@ -1,0 +1,14 @@
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\bin\Debug\net6.0\Model.Infrastructure.CrossCutting.deps.json
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\bin\Debug\net6.0\Model.Infrastructure.CrossCutting.runtimeconfig.json
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\bin\Debug\net6.0\Model.Infrastructure.CrossCutting.dll
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\bin\Debug\net6.0\Model.Infrastructure.CrossCutting.pdb
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\obj\Debug\net6.0\Model.Infrastructure.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\obj\Debug\net6.0\Model.Infrastructure.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\obj\Debug\net6.0\Model.Infrastructure.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\obj\Debug\net6.0\Model.Infrastructure.CrossCutting.AssemblyInfo.cs
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\obj\Debug\net6.0\Model.Infrastructure.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\obj\Debug\net6.0\Model.Infrastructure.CrossCutting.dll
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\obj\Debug\net6.0\refint\Model.Infrastructure.CrossCutting.dll
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\obj\Debug\net6.0\Model.Infrastructure.CrossCutting.pdb
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\obj\Debug\net6.0\Model.Infrastructure.CrossCutting.genruntimeconfig.cache
+C:\Users\welli\Documents\Projects\CrudMySqlEntityFrameworkCore\Model\Model.Infrastructure.CrossCutting\obj\Debug\net6.0\ref\Model.Infrastructure.CrossCutting.dll
