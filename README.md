@@ -18,7 +18,7 @@
   <img src="./Portifolio/SwaggerModelApplication.png" />
 </p>
 
-# :pushpin: Tabela de conte�dos
+# :pushpin: Tabela de conteúdos
 
 * [Sobre o projeto](#satisfied-sobre-o-projeto)
 * [Layout](#panda_face-layout)
@@ -49,21 +49,21 @@ Acknowledgments to [Alex Alves](https://github.com/alexalvess) to share your lea
 ---
 # :question: Como rodar o projeto
 ## Acessando direto pelo site:
-* Ainda n�o consegui deixar online. =/
+* Ainda não consegui deixar online. =/
 
-## Rodando na m�quina local:
-> Certifique-se de ter instalado na sua m�quina o [Docker](https://www.docker.com/).
+## Rodando na máquina local:
+> Certifique-se de ter instalado na sua máquina o [Docker](https://www.docker.com/).
 
-1. Abra o terminal na pasta desejada para clonar o reposit�rio e execute o comando:
+1. Abra o terminal na pasta desejada para clonar o repositório e execute o comando:
 ``` bash
 git clone https://github.com/WellingtonFidelis/CrudMySqlEntityFrameworkCore.git
 ```
-2. Depois de conclu�do, abra a pasta Model:
+2. Depois de concluído, abra a pasta Model:
 ``` bash
 cd CrudMySqlEntityFrameworkCore/Model
 ```
-3. Clique com o bot�o direito no arquivo "Model.sln" e escolha a op��o de abrir no Visual Studio
-4. Certifique-se que a op��o de executar o projeto est� selecionado "Docker"
+3. Clique com o botão direito no arquivo "Model.sln" e escolha a opção de abrir no Visual Studio
+4. Certifique-se que a opção de executar o projeto está selecionado "Docker"
 5. Clicar em Run com Docker e aguardar o projeto ser executado.
 
 ---
